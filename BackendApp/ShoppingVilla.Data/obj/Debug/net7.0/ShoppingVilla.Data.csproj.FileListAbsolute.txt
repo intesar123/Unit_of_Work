@@ -1,0 +1,17 @@
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Data.deps.json
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Data.dll
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Data.pdb
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.csproj.AssemblyReference.cache
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.AssemblyInfoInputs.cache
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.AssemblyInfo.cs
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.csproj.CoreCompileInputs.cache
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.dll
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\refint\ShoppingVilla.Data.dll
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.pdb
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ref\ShoppingVilla.Data.dll
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Data.runtimeconfig.json
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.genruntimeconfig.cache
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Common.dll
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\bin\Debug\net7.0\ShoppingVilla.Common.pdb
+D:\Projects\ShoppingVilla\ShoppingVilla\BackendApp\ShoppingVilla.Data\obj\Debug\net7.0\ShoppingVilla.Data.csproj.CopyComplete
